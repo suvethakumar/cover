@@ -68,7 +68,7 @@ coverapp.html
 </body>
 </html>
 
-style.css
+
 style.css
 
 body {
