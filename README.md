@@ -68,7 +68,7 @@ coverapp.html
 </body>
 </html>
 
-style.css
+
 style.css
 
 body {
@@ -93,10 +93,10 @@ body {
 }
 
 .border {
-    border: 4pxsolid whitesmoke;
-    margin: 2px;
+    border: 4px solid rgb(280, 94, 56, 117);
+    margin: 5px;
     height: 85%;
-    padding: 15px;
+    padding: 10px;
     position: relative;
 }
 
@@ -173,7 +173,7 @@ height: 2px;
 
 ## OUTPUT:
 
-![alt text](image.png)
+![alt text](<Screenshot (67).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
